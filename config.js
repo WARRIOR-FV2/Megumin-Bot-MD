@@ -14,8 +14,8 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['573138954963', '💥 𝗠𝗲𝗴𝘂𝗺𝗶𝗻-𝗕𝗼𝘁 (^_^♪)', true],
-  ['5351524614', '🔥 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 (◣_◢)凸', true],
+  ['573154498492', '💥 𝗠𝗲𝗴𝘂𝗺𝗶𝗻-𝗕𝗼𝘁 (^_^♪)', true],
+  ['573154498492', '🔥 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 (◣_◢)凸', true],
   ['573012482597'],
   ['573218138672'],
   ['593984964830'],
@@ -25,9 +25,9 @@ global.owner = [
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['5351524614', '5218711426787', '', '', '']
+global.mods = ['573154498492', '5218711426787', '', '', '']
 
-global.suittag = ['5351524614']
+global.suittag = ['573154498492']
 global.prems = []
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 global.isBaileysFail = false
@@ -98,15 +98,15 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐\n  ͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI' //Grupo Oficial De Megumin
-global.gp1 = 'https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt' //Grupo 
+global.gp4 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //Grupo Oficial De Anime 60FPS
+global.gp1 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //Grupo 
 global.gp2 = 'https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn'//
 global.comunidad1 = 'https://chat.whatsapp.com/GPEtINYPyIB6a6S55ZJcAO' //Comunidad Megumin
 global.channel = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820' //Canal Oficial
-global.yt = 'https://youtube.com/@davidchian4957' //Canal De Youtube
-global.md = 'https://github.com/David-Chian/Megumin-Bot-MD' //Github Oficial
-global.correo = 'noisebot@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.yt = 'https://youtube.com/@supremo_-sh2sd?si=Fcd5Xm__c_oGUb_Y' //Canal De Youtube
+global.md = 'https://github.com/WARRIOR-FV2/Megumin-Bot-MD' //Github Oficial
+global.correo = 'fjvela64@gmail.com'
+global.cn ='https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
@@ -122,7 +122,7 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nMegumin - Bot`;
-global.nomorown = '5351524614';
+global.nomorown = '573154498492';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
